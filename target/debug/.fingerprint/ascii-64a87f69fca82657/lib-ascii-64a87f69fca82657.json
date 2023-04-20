@@ -1,0 +1,1 @@
+{"rustc":13355374433309949680,"features":"[\"default\", \"std\"]","target":10179521128076462970,"profile":9935990280773120926,"path":7187988190130435896,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ascii-64a87f69fca82657/dep-lib-ascii-64a87f69fca82657"}}],"rustflags":["-C","link-arg=--ld-path=/usr/local/opt/llvm/bin/ld64.lld"],"metadata":637089623833969943}
