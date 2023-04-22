@@ -1,1 +1,0 @@
-{"rustc":13355374433309949680,"features":"[]","target":16897019830964469740,"profile":9935990280773120926,"path":12642760145897586282,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/text_io-0e41308cfe79a01e/dep-lib-text_io-0e41308cfe79a01e"}}],"rustflags":["-C","link-arg=--ld-path=/usr/local/opt/llvm/bin/ld64.lld"],"metadata":10716249605224554386}
